@@ -1,0 +1,27 @@
+{
+  "name": "wyjmap-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.9.0",
+    "file-system": "^2.2.2",
+    "request": "^2.83.0",
+    "sharp": "^0.19.1",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "~8.5.2",
+    "@types/request": "^2.0.13",
+    "@types/sharp": "^0.17.6",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "~2.6.2"
+  }
+}

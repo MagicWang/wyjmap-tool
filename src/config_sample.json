@@ -1,0 +1,296 @@
+{
+    "downloadTasks": [
+        {
+            "name": "横琴高德矢量",
+            "mapType": "gaodeSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinGaodeSL"
+        },
+        {
+            "name": "横琴高德影像",
+            "mapType": "gaodeYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinGaodeYX"
+        },
+        {
+            "name": "横琴百度矢量",
+            "mapType": "baiduSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 19,
+            "path": "../tiles/hengqinBaiduSL"
+        },
+        {
+            "name": "横琴百度影像",
+            "mapType": "baiduYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 19,
+            "path": "../tiles/hengqinBaiduYX"
+        },
+        {
+            "name": "横琴谷歌矢量",
+            "mapType": "googleSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinGoogleSL"
+        },
+        {
+            "name": "横琴谷歌影像",
+            "mapType": "googleYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinGoogleYX"
+        },
+        {
+            "name": "横琴天地图矢量",
+            "mapType": "tdtSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinTdtSL"
+        },
+        {
+            "name": "横琴天地图影像",
+            "mapType": "tdtYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinTdtYX"
+        },
+        {
+            "name": "横琴天地图地形",
+            "mapType": "tdtDX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 14,
+            "path": "../tiles/hengqinTdtDX"
+        },
+        {
+            "name": "横琴天地图墨卡托矢量",
+            "mapType": "tdtmcSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinTdtmcSL"
+        },
+        {
+            "name": "横琴天地图墨卡托影像",
+            "mapType": "tdtmcYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinTdtmcYX"
+        },
+        {
+            "name": "横琴天地图墨卡托地形",
+            "mapType": "tdtmcDX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 14,
+            "path": "../tiles/hengqinTdtmcDX"
+        },
+        {
+            "name": "横琴腾讯矢量",
+            "mapType": "qqSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinQQSL"
+        },
+        {
+            "name": "横琴腾讯影像",
+            "mapType": "qqYX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinQQYX"
+        },
+        {
+            "name": "横琴腾讯地形",
+            "mapType": "qqDX",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 15,
+            "path": "../tiles/hengqinQQDX"
+        },
+        {
+            "name": "横琴OSM矢量",
+            "mapType": "osmSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinOsmSL"
+        },
+        {
+            "name": "深圳高德矢量",
+            "mapType": "gaodeSL",
+            "adcode": "440300",
+            "extent": [],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/shenzhenGaodeSL"
+        },
+        {
+            "name": "深圳高德影像",
+            "mapType": "gaodeYX",
+            "adcode": "440300",
+            "extent": [],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/shenzhenGaodeYX"
+        }
+    ],
+    "compressTasks": [
+        {
+            "name": "横琴高德矢量",
+            "path": "../tiles/hengqinGaodeSL"
+        },
+        {
+            "name": "横琴高德影像",
+            "path": "../tiles/hengqinGaodeYX"
+        },
+        {
+            "name": "横琴百度矢量",
+            "path": "../tiles/hengqinBaiduSL"
+        },
+        {
+            "name": "横琴百度影像",
+            "path": "../tiles/hengqinBaiduYX"
+        },
+        {
+            "name": "横琴谷歌矢量",
+            "path": "../tiles/hengqinGoogleSL"
+        },
+        {
+            "name": "横琴谷歌影像",
+            "path": "../tiles/hengqinGoogleYX"
+        },
+        {
+            "name": "横琴天地图矢量",
+            "path": "../tiles/hengqinTdtSL"
+        },
+        {
+            "name": "横琴天地图影像",
+            "path": "../tiles/hengqinTdtYX"
+        },
+        {
+            "name": "横琴天地图墨卡托矢量",
+            "path": "../tiles/hengqinTdtmcSL"
+        },
+        {
+            "name": "横琴天地图墨卡托影像",
+            "path": "../tiles/hengqinTdtmcYX"
+        },
+        {
+            "name": "深圳高德矢量",
+            "path": "../tiles/shenzhenGaodeSL"
+        },
+        {
+            "name": "深圳高德影像",
+            "path": "../tiles/shenzhenGaodeYX"
+        }
+    ]
+}

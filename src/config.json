@@ -1,0 +1,19 @@
+{
+    "downloadTasks": [
+        {
+            "name": "横琴高德矢量",
+            "mapType": "gaodeSL",
+            "adcode": "",
+            "extent": [
+                113.443292,
+                22.043877,
+                113.558048,
+                22.175402
+            ],
+            "minZoom": 12,
+            "maxZoom": 18,
+            "path": "../tiles/hengqinGaodeSL"
+        }
+    ],
+    "compressTasks": []
+}
