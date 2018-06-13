@@ -60,3 +60,4 @@ typings/
 #dist
 dist
 tiles
+package-lock.json
